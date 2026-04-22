@@ -95,6 +95,41 @@ Includes:
    - performance scoring
    - multi‑chart dashboards.
 
+<h1/>📊 Sample Procurement Analytics Visuals</h1>
+1. Total spend by brand
+<img width="1656" height="909" alt="image" src="https://github.com/user-attachments/assets/71fe2113-fc07-4577-b942-31583220d720" />
+
+2. Category Spend Trend
+<img width="1649" height="895" alt="image" src="https://github.com/user-attachments/assets/45bf48b0-7ad3-4520-abca-fce9a8b033c7" />
+
+3. Drill down map
+<img width="1639" height="909" alt="image" src="https://github.com/user-attachments/assets/125d8314-7ce8-4a87-a05d-85eb2ad131fc" />
+
+4. Supplier score ranking
+<img width="1656" height="904" alt="image" src="https://github.com/user-attachments/assets/8442a7cf-803d-43c9-90f4-516703f02339" />
+
+5. Performance by salesperson
+<img width="1658" height="906" alt="image" src="https://github.com/user-attachments/assets/43eed390-2896-42e0-8f56-0837862946a5" />
+
+6. Procurement cost by year per brand
+<img width="1640" height="905" alt="image" src="https://github.com/user-attachments/assets/a2ac0d44-0c52-404f-ae90-ec4974816493" />
+
+7. Pareto chart
+<img width="1661" height="908" alt="image" src="https://github.com/user-attachments/assets/5c37254a-520d-44ea-9bcd-df35f632f53c" />
+
+8. Sales distribution based on campaigns
+<img width="1634" height="904" alt="image" src="https://github.com/user-attachments/assets/6350cd7f-8b60-41d7-8103-f8dc37594281" />
+
+<h1/>📊 Sample Procurement Dashboards</h1>
+1. Annual Spend Dashboard
+  <img width="1073" height="833" alt="image" src="https://github.com/user-attachments/assets/b744c717-140d-43de-9842-e8a10e91a176" />
+
+2. Regional Activity dashboard
+  <img width="1084" height="855" alt="image" src="https://github.com/user-attachments/assets/ca54cfa7-39bf-4eb3-8c13-b928e75f7049" />
+
+2. Brand spend dashboard
+  <img width="1070" height="843" alt="image" src="https://github.com/user-attachments/assets/169c3671-c8ef-4776-a228-be4ad6b45e60" />
+
 <h1/>📁 Dataset Overview</h1>
 The dataset includes:
 
