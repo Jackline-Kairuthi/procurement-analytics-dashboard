@@ -166,7 +166,7 @@ I communicate insights in a way that supports decision‑making.
 ✔ Technical proficiency
 Tableau, Excel, data modeling, KPI development, and visualization best practices.
 
-📖 Tableau Story Summary
+<h1/>📖 Tableau Story Summary</h1>
 The Tableau Story walks through:
 
  - Spend Overview
