@@ -1,139 +1,156 @@
-📊 Procurement Spend & Performance Analytics Dashboard
+<h1/>📊 Procurement Spend & Performance Analytics Dashboard</h1>
+
 A full Tableau analytics project demonstrating data analysis, business intelligence, and procurement insights.
-⭐ Executive Summary
+
+<h1/>⭐ Executive Summary</h1>
+
 This project showcases my ability to analyze complex procurement datasets, build interactive Tableau dashboards, and translate data into actionable business insights.
 It reflects the core skills required for Data Analyst, Procurement Analyst, BI Analyst, and Supply Chain Analyst roles.
 
 The dashboard suite provides visibility into:
 
-Global procurement spend
+- Global procurement spend
 
-Regional performance
+- Regional performance
 
-Brand‑level cost behavior
+- Brand‑level cost behavior
 
-Supplier performance
+- Supplier performance
 
-Category trends
+- Category trends
 
-Year‑over‑year spend changes
+- Year‑over‑year spend changes
 
 This project demonstrates my capability to deliver end‑to‑end analytics solutions that support strategic decision‑making.
 
-🎯 Business Problem
+<h1/>🎯 Business Problem</h1>
 Procurement teams often struggle with:
 
-Fragmented spend data
+- Fragmented spend data
 
-Limited visibility across regions and suppliers
+- Limited visibility across regions and suppliers
 
-Rising operational costs
+- Rising operational costs
 
-Inconsistent supplier performance
+- Inconsistent supplier performance
 
-Difficulty identifying savings opportunities
+- Difficulty identifying savings opportunities
 
 This project solves these challenges by building a centralized procurement intelligence system using Tableau.
 
-🗂️ Dashboard Suite
+<h1/>🗂️ Dashboard Suite</h1>
 1. Annual Spend Dashboard
 A high‑level view of company‑wide spend.
 
 Includes:
 
-Total Spend, Net Spend, Logistics Spend, Total Savings
+- Total Spend, Net Spend, Logistics Spend, Total Savings
 
-Year‑over‑Year Spend Trend by Brand
+- Year‑over‑Year Spend Trend by Brand
 
-Category Spend Trend
+- Category Spend Trend
 
-Filters for Region, Brand, Category, Year
+- Filters for Region, Brand, Category, Year
 
-Skills demonstrated:  
-Trend analysis, KPI design, time‑series analysis, dashboard layout.
+- Skills demonstrated:  
+   - Trend analysis
+   - KPI design
+   - time‑series analysis
+   - dashboard layout.
 
 2. Regional Activity Dashboard
 A geographical view of procurement spend.
 
 Includes:
 
-Regional Total Spend (Pie Chart)
+- Regional Total Spend (Pie Chart)
 
-Global Spend Map (Net Spend by Region)
+- Global Spend Map (Net Spend by Region)
 
-Regional drill‑downs
+- Regional drill‑downs
 
-Filters for Region, Brand, Category, Year
+- Filters for Region, Brand, Category, Year
 
-Skills demonstrated:  
-Geospatial analysis, drill‑down design, regional segmentation.
+- Skills demonstrated:  
+  - Geospatial analysis
+   - drill‑down design
+   - regional segmentation.
 
 3. Brand Spend & Supplier Performance Dashboard
 A deep dive into brand‑level spend and supplier performance.
 
 Includes:
 
-Total Spend by Brand
+- Total Spend by Brand
 
-Supplier Score Ranking
+- Supplier Score Ranking
 
-Procurement Cost by Year
+- Procurement Cost by Year
 
-Sales Distribution by Campaign Type
+- Sales Distribution by Campaign Type
 
-Skills demonstrated:  
-Supplier analytics, category analysis, performance scoring, multi‑chart dashboards.
+- Skills demonstrated:  
+   - Supplier analytics
+   - category analysis
+   - performance scoring
+   - multi‑chart dashboards.
 
-📁 Dataset Overview
+<h1/>📁 Dataset Overview</h1>
 The dataset includes:
 
-Units Purchased
+- Units Purchased
 
-Unit Cost
+- Unit Cost
 
-Supplier Discount %
+- Supplier Discount %
 
-Total Spend & Net Spend
+- Total Spend & Net Spend
 
-Logistics Cost
+- Logistics Cost
 
-Procurement Overheads
+- Procurement Overheads
 
-Savings Achieved
+- Savings Achieved
 
-Category & Brand
+- Category & Brand
 
-Supplier
+- Supplier/ Brand
 
-Region
+- Region
 
-Buyer/Salesperson
+- Salesperson
 
 This structure supports spend analysis, supplier evaluation, regional insights, and operational cost breakdowns.
 
-🧠 Key Insights Delivered
-Western Asia and the Americas drive the highest procurement spend.
+<h1/>🧠 Key Insights Delivered</h1>
 
-HomeNest, PureLiva, FuelCore, and RoastTrail are the top‑spending brands.
+- Western Asia and the Americas drive the highest procurement spend.
 
-Supplier scores range from 7.88 to 4.73, highlighting performance gaps.
+- HomeNest, PureLiva, FuelCore, and RoastTrail are the top‑spending brands.
 
-Seasonal and Discount campaigns generate the strongest sales uplift.
+- Supplier scores range from 7.88 to 4.73, highlighting performance gaps.
 
-Category spend shows clear seasonal patterns across the year.
+- Seasonal and Discount campaigns generate the strongest sales uplift.
 
-These insights support decisions around supplier optimization, regional cost control, and category strategy.
+- Category spend shows clear seasonal patterns across the year.
 
-🛠️ Tools & Technologies
-Tableau Desktop – Dashboard development
+- These insights support decisions around supplier optimization, regional cost control, and category strategy.
 
-Excel / CSV – Data cleaning & preparation
+<h1/>🛠️ Tools & Technologies</h1>
 
-Tableau Story – Narrative insights
+- Tableau Desktop – Dashboard development
 
-Data Modeling – KPI creation, calculated fields, hierarchies
+- Excel / CSV – Data cleaning & preparation
 
-📌 What This Project Demonstrates About My Skills
+- Tableau Story – Narrative insights
+
+- Data Modeling
+    - KPI creation
+    - calculated fields
+    - hierarchies
+
+<h1/>📌 What This Project Demonstrates About My Skills</h1>
+
 ✔ Strong analytical thinking
 I break down complex procurement data into clear, actionable insights.
 
@@ -152,12 +169,12 @@ Tableau, Excel, data modeling, KPI development, and visualization best practices
 📖 Tableau Story Summary
 The Tableau Story walks through:
 
-Spend Overview
+ - Spend Overview
 
-Regional Activity
+ - Regional Activity
 
-Brand & Supplier Performance
+ - Brand & Supplier Performance
 
-Insights & Recommendations
+  - Insights & Recommendations
 
 This provides a clear narrative for stakeholders.
